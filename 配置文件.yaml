@@ -183,6 +183,43 @@ proxy-groups:
       - github.com/freefq - 广东省广州市电信 41
       - github.com/freefq - 美国3COM公司企业网 42
       - github.com/freefq - 日本  43
+      - 🇭🇰_HK_香港_1
+      - default_name_2
+      - 🇨🇳_CN_中国->🇹🇷_TR_土耳其_3
+      - default_name_4
+      - default_name_5
+      - 🇨🇦_CA_加拿大_6
+      - default_name_7
+      - default_name_8
+      - 🇨🇦_CA_加拿大_9
+      - 🇺🇸_US_美国->🇫🇷_FR_法国_10
+      - 🇺🇸_US_美国_11
+      - default_name_12
+      - 🇺🇸_US_美国_13
+      - 🇺🇸_US_美国->🇷俄罗斯🇺_RU_联邦_14
+      - 🇨🇦_CA_加拿大_15
+      - 🇨🇦_CA_加拿大_16
+      - 🇨🇦_CA_加拿大_17
+      - 🇨🇦_CA_加拿大_18
+      - 🇨🇦_CA_加拿大_19
+      - 🇨🇦_CA_加拿大_20
+      - 🇨🇦_CA_加拿大_21
+      - 🇨🇦_CA_加拿大_22
+      - 🇨🇦_CA_加拿大_23
+      - 🇨🇦_CA_加拿大_24
+      - default_name_25
+      - 🇨🇦_CA_加拿大_26
+      - 🇨🇦_CA_加拿大_27
+      - 🇨🇦_CA_加拿大_28
+      - 🇨🇦_CA_加拿大_29
+      - 🇨🇦_CA_加拿大_30
+      - 🇨🇦_CA_加拿大_31
+      - 🇨🇦_CA_加拿大_32
+      - 🇭🇰_HK_香港->🇸🇬_SG_新加坡_33
+      - 🇨🇦_CA_加拿大_34
+      - 🇨🇦_CA_加拿大_35
+      - 🇨🇦_CA_加拿大_36
+      - 🇨🇦_CA_加拿大_37
       
   - name: 🎥 NETFLIX
     type: select
